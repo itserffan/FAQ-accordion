@@ -37,4 +37,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@erfansoleimanii](https://www.frontendmentor.io/profile/itserffan)
-- Twitter - [@itserffan](https://www.twitter.com/itserffan)
+- Github - [@itserffan](https://github.com/itserffan)
